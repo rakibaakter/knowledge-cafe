@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/M2bB45S/blog1.jpg",
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "authorImg": "https://i.ibb.co/k4hwgRH/author2.jpg",
+      "publishDate": "2023-03-15",
+      "readTime": "4 hours",
+      "hashtags": ["fantasy", "classic", "gardening"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/8mDNdBN/blog2.jpg",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "authorImg": "author2.jpg",
+      "publishDate": "2023-04-22",
+      "readTime": "5 hours",
+      "hashtags": ["fiction", "philosophy", "life"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/BGssxJF/blog3.jpg",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "authorImg": "author3.jpg",
+      "publishDate": "2023-02-10",
+      "readTime": "6 hours",
+      "hashtags": ["thriller", "mystery", "conspiracy"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/6Jgv0RN/blog4.jpg",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "authorImg": "https://i.ibb.co/k4hwgRH/author2.jpg",
+      "publishDate": "2023-01-05",
+      "readTime": "3 hours",
+      "hashtags": ["classic", "racism", "justice"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/YdP7SHX/blog5.jpg",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "authorImg": "author5.jpg",
+      "publishDate": "2023-05-20",
+      "readTime": "4.5 hours",
+      "hashtags": ["classic", "romance", "wealth"]
+    }
+  ]
+  
