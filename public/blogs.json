@@ -6,7 +6,7 @@
       "author": "Frances Hodgson Burnett",
       "authorImg": "https://i.ibb.co/k4hwgRH/author2.jpg",
       "publishDate": "2023-03-15",
-      "readTime": "4 hours",
+      "readTime": "4",
       "hashtags": ["fantasy", "classic", "gardening"]
     },
     {
@@ -14,9 +14,9 @@
       "cover": "https://i.ibb.co/8mDNdBN/blog2.jpg",
       "title": "The Midnight Library",
       "author": "Matt Haig",
-      "authorImg": "author2.jpg",
+      "authorImg": "https://i.ibb.co/k4hwgRH/author2.jpg",
       "publishDate": "2023-04-22",
-      "readTime": "5 hours",
+      "readTime": "5",
       "hashtags": ["fiction", "philosophy", "life"]
     },
     {
@@ -24,9 +24,9 @@
       "cover": "https://i.ibb.co/BGssxJF/blog3.jpg",
       "title": "The Da Vinci Code",
       "author": "Dan Brown",
-      "authorImg": "author3.jpg",
+      "authorImg": "https://i.ibb.co/k4hwgRH/author2.jpg",
       "publishDate": "2023-02-10",
-      "readTime": "6 hours",
+      "readTime": "6",
       "hashtags": ["thriller", "mystery", "conspiracy"]
     },
     {
@@ -36,7 +36,7 @@
       "author": "Harper Lee",
       "authorImg": "https://i.ibb.co/k4hwgRH/author2.jpg",
       "publishDate": "2023-01-05",
-      "readTime": "3 hours",
+      "readTime": "3",
       "hashtags": ["classic", "racism", "justice"]
     },
     {
@@ -44,9 +44,9 @@
       "cover": "https://i.ibb.co/YdP7SHX/blog5.jpg",
       "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
-      "authorImg": "author5.jpg",
+      "authorImg": "https://i.ibb.co/k4hwgRH/author2.jpg",
       "publishDate": "2023-05-20",
-      "readTime": "4.5 hours",
+      "readTime": "4.5",
       "hashtags": ["classic", "romance", "wealth"]
     }
   ]

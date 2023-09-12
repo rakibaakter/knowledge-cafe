@@ -10,12 +10,16 @@ const Blogs = () => {
         .then(data => setBlogs(data))
     } ,[])
     return (
-        <div className="px-24">
-            <h2 className="text-3xl font-semibold text-amber-800">Blog</h2>
+        <div className="px-8 md:px-24 py-6 md:flex md:flex-row-reverse justify-between">
+            <div>
+                <h2>list/card</h2>
+            </div>
+            <div>
             {
                 blogs.map(blog => 
                     <Blog key={blog.id} blog={blog}></Blog>)
             }
+            </div>
         </div>
     );
 };
